@@ -1,6 +1,6 @@
 ---
 title: "Proposal Abstract"
-author: "Matthew Beckman"
+author: "Matthew Beckman & Lisa Lendway"
 date: "1/29/2021"
 output: pdf_document
 ---
@@ -16,13 +16,6 @@ Theme: Expanding opportunities <https://www.causeweb.org/cause/uscots/uscots21/a
 
 # Abstract (150 words)
 
-Exploratory Data Analysis (EDA) perhaps suffers from a wider gap between real & perceived value than any contribution the data analyst offers.  A careful EDA--i.e., initial data analysis, in particular--requires critical thinking and creativity, while building fruitful intuition for tentative research questions and laying foundations for responsible exploration, inference, and prediction.  However, EDA too often seems confined to a cursory obligation between data preparation (the 'boring' part) and modeling/machine learning (the 'exciting' part).  
-
-The popularity of Data Science has ushered in open data initiatives and elegant software solutions yield easy access to models and algorithms that can be readily implemented by a non-specialist to explore all manner of subjects, even if the workings, assumptions, and proper interpretations of those methods are quite opaque to the user.  This session aims to provoke a discussion that seeks to (1) reframe/affirm goals of a thorough EDA in a world laden with found data, big data, etc. (2) rethink where/how EDA should be addressed in data analysis courses at all levels.
-
-
-
-### 148 words
 
 Exploratory Data Analysis (EDA) perhaps suffers a wider gap between real & perceived value than any contribution the data analyst offers.  The popularity of Data Science has ushered in a rising tide of open-data initiatives and elegant software solutions readily accessible to non-specialists, thereby democratizing data analysis for all manner of subjects.  Initially, some novices may feel overwhelmed and others may risk spurious results utilizing opaque methods with fancy names, yet all can be empowered by careful EDA based on lucid methods powered by curiosity, creativity, and critical thinking to build fruitful intuition and responsible insights.  However, EDA too often seems a cursory obligation to be minimized.
 
