@@ -1,6 +1,6 @@
 ---
 title: "Proposal Abstract"
-author: "Matthew Beckman & Lisa Lendway"
+author: "Matthew Beckman, Lisa Lendway, & Chris Desjardins"
 date: "1/29/2021"
 output: pdf_document
 ---
