@@ -8,7 +8,7 @@ output: pdf_document
 ## Agenda Draft (75 min--1:30 to 2:45 ET): 
 
 Target size of breakout groups: 5-7? 
-
+Same breakout rooms throughout
 Breakout group roles: 
 - note taker
 - speaker (for large group)
@@ -18,32 +18,53 @@ Breakout group roles:
 
 
 
-- (1:30-1:40pm; 10 min) Opening remarks about EDA (and IDA initial data analysis)--each sharing: 
+- (1:30-1:40pm; 8 min) Opening remarks about EDA (and IDA initial data analysis)--each sharing: 
     - why we're interested in the topic 
     - our current perspectives (individually) 
     - which courses/student populations are front of mind
-
-- (1:40-1:55pm; 15 min) small group discussion prompt(s)--e.g., 
+Order:
+    - Matt introduces the session and his views
+    - Lisa presents her views
+    - Chris presents his views and lead into small group discussion
+    
+- (1:40-1:55pm; 13 min) small group discussion prompt(s)--e.g., 
+    - Google Slides: https://docs.google.com/presentation/d/1S4CZI_Z-EIBr7G1QF3b9gOC7iNzPgrYULdf_YN58DA0/edit?usp=sharing
+    - Small-Group Roles: Note taker, reporter, includer, and timekeeper
     - what brought you here?  why the interest in EDA breakout?
+    - What is the population/setting that you teach/don't teach EDA in?
+    - What is EDA?
     - what should a thorough EDA include?  
     - where/how should students learn about EDA?
     - how to prioritize EDA among existing topics (what can/should we give up)?
+    - Be prepared to give 3 key takeaways
 
-- (1:55-2:05pm; 10 min) large group discussion based on observations from small groups
+- (1:55-2:05pm; 8 min) large group discussion based on observations from small groups
+    - Chris facilitate and wraps up large group discussion
+    - Lisa introduces next discussion
+    
+- (2:05-2:15pm; 8 min) small groups review & discuss various guidance for EDA--e.g., 
+    - Google Slides: https://docs.google.com/presentation/d/1uwNKMrgSMaD-NESw66xFc3I2u1iBkYNjLJocTVlqTnI/edit?usp=sharing
+    - Small-Group Roles: Note taker, reporter, includer, and timekeeper
+    - How does this author's views reflect with your own understanding and use of EDA discussed in the first discussion?
+    - What do you think about these view and how does it related to what you previously discussed?
+    - What do you use as guidance for EDA?
+        - Tukey's EDA preface/first section of chapter 1
+        - Shan (2020). An extensive step by step guide to exploratory data analysis.  *Towards data science.*
+        - Wickham & Grolemund (2020). *R for Data Science* <r4ds.had.co.nz>
+        - NIST: https://www.itl.nist.gov/div898/handbook/eda/eda.htm
+        - What textbook do you use when you teach EDA? 
 
-- (2:05-2:15pm; 10 min) small groups review & discuss various guidance for EDA--e.g., 
-    - Velleman & Hoaglin (2012). Exploratory data analysis. In *APA handbook of research methods in psychology* <doi.org/10.1037/13621-003>
-    - Shan (2020). An extensive step by step guide to exploratory data analysis.  *Towards data science.*
-    - Wickham & Grolemund (2020). *R for Data Science* <r4ds.had.co.nz>
-
-- (10 min) large group compare & contrast observations from small group discussions. Any revisions or new insights about what a thorough EDA should include?
-
-- (10 min) small group discussions prompt(s)--e.g.,  
+- 8 min) large group compare & contrast observations from small group discussions. Any revisions or new insights about what a thorough EDA should include?
+   - Lisa facilitate and wraps up large group discussion
+   - Matt introduces next discussion
+   
+- (8 min) small group discussions prompt(s)--e.g.,  
+    - Google Slides: https://docs.google.com/presentation/d/1HfggfjJAXTde3TpoKRkrOggN3h-h2kpi0gGKRKoYyww/edit?usp=sharing
     - Data science has helped to shift attention toward a wider view of data (volume, variety, etc).  Which (if any) priorities for EDA need to adapt, and which are unchanged?
     - Do we need to rethink where and how EDA should be addressed in Statistics & Data Science courses
 
-- (15 min) large group discussion based on observations from small groups
-
+- (8 min) large group discussion based on observations from small groups
+    - Matt facilitates
 
 
 
