@@ -40,8 +40,7 @@ output: pdf_document
 
 ## Toward Data Science
 
-Shan, T. (2020). An extensive step by step guide to exploratory data analysis.  *Towards data science.* URL: 
-<https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e>
+Shan, T. (2020). An extensive step by step guide to exploratory data analysis.  *Towards data science.* URL: <https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e>
 
 ### Key Quotes
 
@@ -57,7 +56,7 @@ Shan, T. (2020). An extensive step by step guide to exploratory data analysis.  
 
 "Exploratory Data Analysis does two main things: 1. It helps clean up a dataset. 2 It gives you a better understanding of the variables and the relationships between them."
 
-"[T]here are [three] main components of exploring data: 1. Understanding your variables 2. Cleaning your dataset 3. Analying relationships between variables."
+"[T]here are [three] main components of exploring data: 1. Understanding your variables 2. Cleaning your dataset 3. Analyzing relationships between variables."
 
 
 ### Worked Example (Used Car Data)
